@@ -6,5 +6,6 @@ public class Main {
         System.out.println("og i lige måde forresten!");
         System.out.println("Håber at alkoholen ramte fedt i fredags ;)");
         System.out.println(":)");
+        System.out.println("Merge complete!");
     }
 }
